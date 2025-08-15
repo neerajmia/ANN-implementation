@@ -1,2 +1,3 @@
 # ANN-implementation
-creating and training an ANN model for identifying numbers between 1 and 9 by creating forward and back propagation alogorithm
+Develop and train an ANN model from scratch (without using any library) for calssifying  numbers between 1 and 9.   
+Forward and backward propagation alogorithm alognwith gradient descent are coded from scratch.
